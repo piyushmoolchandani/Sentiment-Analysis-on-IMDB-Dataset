@@ -1,6 +1,8 @@
 # Sentiment-Analysis-on-IMDB-Dataset
 Dataset can be downloaded from http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz or from https://www.kaggle.com/c/word2vec-nlp-tutorial/data <br>
- 
+
+If downloading data from this repository, please extract in the same folder as all the other sentiment analysis network file is kept.
+
 Libraries needed to be preinstalled for reproducing the code:
 1. Torch
 2. Sklearn
